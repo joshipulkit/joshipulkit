@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I am Pulkit Joshi. I am a currently a PhD scholar in the Quantum Chemistry Group in TIFR, Mumbai.
 
 <!--
 **joshipulkit/joshipulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
