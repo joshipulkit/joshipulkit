@@ -6,6 +6,8 @@
 - I’m currently learning C++
 - Fun fact: I love to trek and play table-tennis
 
+</br>
+
 ---
 
 ### Connect with me:
