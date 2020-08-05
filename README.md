@@ -28,7 +28,7 @@
 ---
 
 <img align="left" alt="joshipulkit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshipulkit&show_icons=true&hide_border=true&count_private=true" />
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshipulkit&layout=compact">
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshipulkit&hide_border=true">
 
 
 [website]:https://joshipulkit.github.io
