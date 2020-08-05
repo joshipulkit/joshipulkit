@@ -1,4 +1,4 @@
-### Hi, my name is Pulkit Joshi. I am a currently a PhD scholar in the Quantum Chemistry Group in TIFR, Mumbai.
+### Hi, my name is [Pulkit Joshi](https://joshipulkit.github.io). I am a currently a PhD scholar in the Quantum Chemistry Group in TIFR, Mumbai.
 
 <!--**joshipulkit/joshipulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -19,9 +19,11 @@
 
 ---
 
-### Latest Blog Posts
+### Latest posts on my website: 
 
-- add something
+- [DIIS: Python code for H2O using minimal STO-3G basis set](https://joshipulkit.github.io/codes/diis-python-code/)
+- [DIIS: A method to accelarate SCF convergence](https://joshipulkit.github.io/notes/diis/)
+- [Kalsubai Peak: First Monsoon Trek in the Sahyadris](https://joshipulkit.github.io/blog/first-monsoon-trek-to-sahyadris/)
 
 <br />
 
