@@ -6,6 +6,9 @@
 - I’m currently learning C++
 - Fun fact: I love to trek and play table-tennis
 
+<br />
+<br />
+
 ---
 
 ### Connect with me:
@@ -22,11 +25,14 @@
 
 ### Latest Blog Posts
 
+- add something
+
+<br />
+<br />
 
 ---
 
 <img align="left" alt="joshipulkit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshipulkit&show_icons=true&hide_border=true" />
-
 
 
 [website]:https://joshipulkit.github.io
