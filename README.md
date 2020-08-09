@@ -14,16 +14,16 @@
 [<img align="left" alt="joshipulkit_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pulkit Joshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joshipulkit_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![https://joshipulkit.github.io](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://joshipulkit.github.io "Pulkit Joshi")
 
 <br />
 
 ---
 
-### Latest posts on my website: 
+### Latest posts on my [website](https://joshipulkit.github.io, "Pulkit Joshi"): 
 
 - [DIIS: Python code for H2O using minimal STO-3G basis set](https://joshipulkit.github.io/codes/diis-python-code/)
 - [DIIS: A method to accelarate SCF convergence](https://joshipulkit.github.io/notes/diis/)
-- [Kalsubai Peak: First Monsoon Trek in the Sahyadris](https://joshipulkit.github.io/blog/first-monsoon-trek-to-sahyadris/)
 
 ---
 
