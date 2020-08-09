@@ -9,12 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="joshipulkit.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
-[<img align="left" alt="joshipulkit.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="joshipulkit_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Pulkit Joshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joshipulkit_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![https://joshipulkit.github.io](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://joshipulkit.github.io "Pulkit Joshi")
+[<img align="left" alt="joshipulkit.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />](mailto:pulkitjoshi896@gmail.com)
+[<img align="left" alt="joshipulkit.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://joshipulkit.github.io)
+[<img align="left" alt="joshipulkit_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/joshipulkit_)
+[<img align="left" alt="Pulkit Joshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joshipulkit/)
+[<img align="left" alt="joshipulkit_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/joshipulkit_)
 
 <br />
 
@@ -29,9 +28,3 @@
 
 <img align="left" alt="joshipulkit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshipulkit&show_icons=true&hide_border=true&count_private=true" />
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshipulkit&hide_border=true">
-
-[email]:mailto:pulkitjoshi896@gmail.com
-[website]:https://joshipulkit.github.io
-[twitter]:https://twitter.com/joshipulkit_
-[linkedin]:https://www.linkedin.com/in/joshipulkit/
-[instagram]:https://instagram.com/joshipulkit_
