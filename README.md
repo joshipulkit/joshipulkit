@@ -11,13 +11,9 @@ When I’m not coding or analysing data, I enjoy trekking, table tennis, travell
 <!-- Badges for languages and tools: these icons automatically update via shields.io -->
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 <a href="https://fortran-lang.org" target="_blank"><img src="https://img.shields.io/badge/Fortran-734f96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
-<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
-<a href="https://scipy.org" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a>
-
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 
 ### 📊 GitHub Stats
 
