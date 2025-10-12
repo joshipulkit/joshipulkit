@@ -32,7 +32,7 @@ When I’m not coding or analysing data, I enjoy trekking, table tennis, travell
 
 You can find me at:
 
-- [📧 Email](mailto:joshi_pulkit@protonmail.com)
+- [📧 Email](mailto:pulkitjoshi896@gmail.com)
 - [🌐 Website](https://sites.google.com/view/pulkitjoshi)
 - [💼 LinkedIn](https://www.linkedin.com/in/pulkitjoshi/)
 - [🐦 Twitter](https://twitter.com/joshipulkit_)
