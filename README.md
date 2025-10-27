@@ -2,9 +2,9 @@
 
 ### 🧪 Postdoctoral Researcher in Computational Materials Science
 
-I specialise in **theoretical and computational chemistry**, focusing on electronic-structure methods for materials.  After earning my PhD from **TIFR Mumbai** (where I studied non‑covalent interactions in open‑shell systems and anionic resonances), I joined the **Computational Materials Sciences Group** at the **Otto‑Schott‑Institut für Materialforschung, Friedrich‑Schiller‑Universität Jena** as a postdoctoral researcher.  My work combines **density functional theory (DFT)**, many‑body methods and **data‑driven techniques** to build accurate and efficient models for complex chemical and material systems.
+I specialise in **theoretical and computational chemistry**, focusing on electronic-structure methods for materials.  After earning my PhD from **TIFR Mumbai** (where I studied non-covalent interactions in open-shell systems and anionic resonances), I joined the **Computational Materials Sciences Group** at the **Otto-Schott-Institut für Materialforschung, Friedrich-Schiller-Universität Jena** as a postdoctoral researcher.  My work combines **density functional theory (DFT)**, many-body methods and **data-driven techniques** to build accurate and efficient models for complex chemical and material systems.
 
-When I’m not coding or analysing data, I enjoy trekking, table tennis, travelling, good food and exploring thought‑provoking literature & cinema. I’m always open to collaborations and scientific programming projects—feel free to connect!
+When I’m not coding or analysing data, I enjoy trekking, table tennis, travelling, good food and exploring thought-provoking literature & cinema. I’m always open to collaborations and scientific programming projects—feel free to connect!
 
 ### 🔧 Languages & Tools
 
@@ -14,6 +14,9 @@ When I’m not coding or analysing data, I enjoy trekking, table tennis, travell
 <a href="https://fortran-lang.org" target="_blank"><img src="https://img.shields.io/badge/Fortran-734f96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 
 ### 📊 GitHub Stats
 
