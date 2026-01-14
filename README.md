@@ -1,5 +1,14 @@
 # 💫 About Me:
-I’m a theoretical and computational chemist trying to understand materials one electron at a time. I did my PhD at TIFR Mumbai, where I spent a lot of time thinking about non-covalent interactions, open-shell systems, and anionic resonances. I’m currently a postdoctoral researcher in the Computational Materials Sciences Group at the Otto-Schott-Institut für Materialforschung, Friedrich-Schiller-Universität Jena. My work blends DFT, many-body methods, and a dash of data-driven techniques to build models that are (hopefully) both accurate and efficient for complex chemical and material systems.<br>
+### Hi, I’m a theoretical & computational chemist
+
+- I work on electronic-structure methods for materials, attempting to understand them one electron at a time  
+- I completed my PhD at **TIFR Mumbai**, focusing on non-covalent interactions in open-shell systems and anionic resonances  
+- I am currently a postdoctoral researcher in the **Computational Materials Sciences Group**  
+  at the **Otto-Schott-Institut für Materialforschung,  
+  Friedrich-Schiller-Universität Jena**
+- My research combines **density functional theory**, many-body methods, and a measured use of  
+  **data-driven techniques**
+- I am interested in developing **DFT-based and beyond-DFT electronic-structure models** that balance accuracy and efficiency
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshipulkit_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshipulkit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joshipulkit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulkitjoshi896@gmail.com) 
