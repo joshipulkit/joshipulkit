@@ -11,4 +11,4 @@ My work combines density functional theory, many-body methods, and a measured us
 - Blog — https://joshipulkit.github.io
 - LinkedIn — https://linkedin.com/in/joshipulkit
 - X — https://x.com/joshipulkit_/
-- Email — pulkitjoshi896@gmail.com
+- Email — pulkitjoshi896@gmail.com, pulkit.joshi@uni-jena.de
