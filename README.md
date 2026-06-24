@@ -1,6 +1,6 @@
 # Pulkit Joshi
 
-Theoretical and computational chemist working on electronic-structure methods for materials — trying to understand them one electron at a time.
+Theoretical and computational chemist working on electronic-structure methods for materials.
 
 I completed my PhD at TIFR Mumbai, on non-covalent interactions in open-shell systems and anionic resonances. I am currently a postdoctoral researcher in the Computational Materials Sciences Group at the Otto-Schott-Institut für Materialforschung, Friedrich-Schiller-Universität Jena.
 
